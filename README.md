@@ -1,4 +1,4 @@
-# Lecture Notes
+# Lecture Notes by Tanujit Chakraborty
 
 ![architecture_FEWNet](https://github.com/ctanujit/lecture-notes/blob/main/Poster-1.png)
 

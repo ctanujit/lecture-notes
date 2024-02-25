@@ -6,24 +6,15 @@ Lecture notes (prepared by me) on various topics are freely available here for d
 
 ## [Table of Contents](https://github.com/ctanujit/lecture-notes)
 
+
 * **Books**
- 
-* **Mathematics Course Material**
- 
-* **Statistics Course Material**
- 
-* **Machine Learning Course Material**
-  
-* **Previous Year Solved Papers for ISI and TIFR Entrance Exams**
 
-
-### $${\color{violet}Books}$$
  1. [Challenging Mathematical Problems for BS Entrances](https://github.com/ctanujit/lecture-notes/blob/main/Books/Challenging%20Mathematical%20Problems%20for%20BS%20Entrances.pdf)
  2. [Olympiad Mathematics](https://github.com/ctanujit/lecture-notes/blob/main/Books/Olympiad%20Mathematics.pdf)
  3. [Solving Mathematical Problems for MS Entrances](https://github.com/ctanujit/lecture-notes/blob/main/Books/Solving%20Mathematical%20Problems%20for%20MS%20Entrances.pdf)
 
-
-### $${\color{orange}Mathematics \ Course \ Material}$$
+* **Mathematics Course Material**
+  
 1. [Differential Calculus](https://github.com/ctanujit/lecture-notes/blob/main/Mathematics/Differential%20Calculus.pdf)
 2. Linear Algebra [Part 1,](https://github.com/ctanujit/lecture-notes/blob/main/Mathematics/Linear%20Algebra%20Part-1.pdf) [Part 2](https://github.com/ctanujit/lecture-notes/blob/main/Mathematics/Linear%20Algebra%20Part-2.pdf)
 3. [Matrix Algebra](https://github.com/ctanujit/lecture-notes/blob/main/Mathematics/Matrix%20Algebra.pdf)
@@ -33,8 +24,8 @@ Lecture notes (prepared by me) on various topics are freely available here for d
 7. [Real Analysis](https://github.com/ctanujit/lecture-notes/blob/main/Mathematics/Real%20Analysis.pdf)
 8. [Sequence and Series of Real Numbers](https://github.com/ctanujit/lecture-notes/blob/main/Mathematics/Sequence%20and%20Series%20of%20Real%20Numbers.pdf)
 
-
-### $${\color{lightgreen}Statistics \ Course \ Material}$$
+* **Statistics Course Material**
+  
 1. [Introduction to Probability](https://github.com/ctanujit/lecture-notes/blob/main/Statistics/Introduction%20to%20Probability.pdf)
 2. Probability Theory [Part 1,](https://github.com/ctanujit/lecture-notes/blob/main/Statistics/Probability%20Theory%20Part-1.pdf) [Part 2,](https://github.com/ctanujit/lecture-notes/blob/main/Statistics/Probability%20Theory%20Part-2.pdf) [Part 3,](https://github.com/ctanujit/lecture-notes/blob/main/Statistics/Probability%20Theory%20Part-3.pdf) [Part 4](https://github.com/ctanujit/lecture-notes/blob/main/Statistics/Probability%20Theory%20Part-4.pdf)
 3. Descriptive Statistics [Part 1,](https://github.com/ctanujit/lecture-notes/blob/main/Statistics/Descriptive%20Statistics.pdf) [Part 2](https://github.com/ctanujit/lecture-notes/blob/main/Statistics/Categorical%20Data%20Analysis.pdf)
@@ -59,15 +50,15 @@ Lecture notes (prepared by me) on various topics are freely available here for d
 22. [Regression Techniques](https://github.com/ctanujit/lecture-notes/blob/main/Statistics/Regression%20Techniques.pdf)
 23. [Industrial Experimentation](https://github.com/ctanujit/lecture-notes/blob/main/Statistics/Industrial%20Experimentation.pdf)
 
-
-### $${\color{red}Machine \ Learning \ Course \ Material}$$
+* **Machine Learning Course Material**
+  
 1. [Business Analytics](https://github.com/ctanujit/lecture-notes/blob/main/ML/Business%20Analytics.pdf)
 2. [Management Information System](https://github.com/ctanujit/lecture-notes/blob/main/ML/Management%20Information%20System.pdf)
 3. [Pattern Recognition](https://github.com/ctanujit/lecture-notes/blob/main/ML/Pattern%20Recognition.pdf)
 4. [Mathematics for Machine Learning by Stanford University](https://github.com/ctanujit/lecture-notes/blob/main/ML/Mathematics%20for%20Machine%20Learning%20by%20Stanford%20University.pdf)
 5. [Machine Learning by Stanford University](https://github.com/ctanujit/lecture-notes/blob/main/ML/Machine%20Learning%20by%20Stanford%20University.pdf)
 
-### $${\color{lightblue}Previous \ Year \ Solved \ Papers \ for \ ISI \ and \ TIFR \ Entrance \ Exams}$$
+* **Previous Year Solved Papers for ISI and TIFR Entrance Exams**
 
 1. [240 TRUE FALSE Solutions](https://github.com/ctanujit/lecture-notes/blob/main/Solved%20Previous%20Papers/240%20TRUE%20FALSE%20Solutions.pdf)
 2. [100 Objective Solutions](https://github.com/ctanujit/lecture-notes/blob/main/Solved%20Previous%20Papers/100%20Objective%20Solutions.pdf)

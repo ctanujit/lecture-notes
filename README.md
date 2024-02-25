@@ -6,15 +6,15 @@ Lecture notes (prepared by me) on various topics are freely available here for d
 
 ## [Table of Contents](https://github.com/ctanujit/lecture-notes)
 
-* <code style = "color:red">Books</code>
+* **Books**
  
-* <code style = "color:red">Mathematics Course Material</code>
+* **Mathematics Course Material**
  
-* <code style = "color:red">Statistics Course Material</code>
+* **Statistics Course Material**
  
-* <code style = "color:red">Machine Learning Course Material</code>
- 
-* <code style = "color:red">Previous Year Solved Papers for ISI and TIFR Entrance Exams</code>
+* **Machine Learning Course Material**
+  
+* **Previous Year Solved Papers for ISI and TIFR Entrance Exams**
 
 
 ### $${\color{violet}Books}$$

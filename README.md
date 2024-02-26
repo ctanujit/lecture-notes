@@ -4,6 +4,8 @@
 
 Lecture notes (prepared by me) on various topics are freely available here for downloading. I want to thank my Professors & Seniors of Narendrapur Ramkrishna Mission, Bidhannagar College, and the Indian Statistical Institute for their help and support in creating this library.
 
+To **Download** all the files at once, click on @@ text in green (and bold)@@
+
 ## [Table of Contents](https://github.com/ctanujit/lecture-notes)
 
 

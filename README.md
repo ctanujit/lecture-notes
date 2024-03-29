@@ -7,7 +7,7 @@
 
 > Contact Me: ctanujit@gmail.com | [LinkedIn](https://www.linkedin.com/in/ctanujit/) | [YouTube](https://www.youtube.com/@dr.tanujitchakraborty9676/videos)
 
-Lecture notes (prepared by me) on various topics are freely available here for downloading. I want to thank my Professors & Seniors of Narendrapur Ramkrishna Mission, Bidhannagar College, and the Indian Statistical Institute for their help and support in creating this library.
+Lecture notes (prepared by me) on various topics are freely available here for downloading. Please feel free to use them for any non-commercial use. 
 
 ## [Table of Contents](https://github.com/ctanujit/lecture-notes)
 
